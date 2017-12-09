@@ -3,6 +3,6 @@ applications:
   memory: 125M
   instances: 1
   domain: mybluemix.net
-  name: Belle_Rison
-  host: Belle_Rison
+  name: belle_rison_23
+  host: belle_rison_23
   disk_quota: 1024M
